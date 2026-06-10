@@ -259,5 +259,7 @@ Projeto desenvolvido para fins acadêmicos e evolução prática em:
 Projeto desenvolvido para fins educacionais.
 
 ---
+# Cancelamento do Projeto.
 
-# Por Incompetência de uma Aluna RAYKA o projeto não deu muito certo, não so por parte dela como o do time todo por falta de comunicação esse projeto foi cancelado, quando quiser nammorar termina a poha do curso antes, pra focar o projeto.
+Por Incompetência de uma Aluna RAYKA o projeto não deu muito certo, não so por parte dela como o do time todo por falta de comunicação esse projeto foi cancelado, quando quiser nammorar termina a poha do curso antes, pra focar o projeto.
+- O site ja estava com o FRONT-END/BACK-END feitos na parte de INDEX/LOGIN/CADASTRO/HOME/PERFIL e a mesma aluna incompetente não gostou, e resolveu fazer o projeto sozinha, o que me fez desapontado e desistir do projeto.
