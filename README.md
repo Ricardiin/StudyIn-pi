@@ -257,3 +257,7 @@ Projeto desenvolvido para fins acadêmicos e evolução prática em:
 # 📄 Licença
 
 Projeto desenvolvido para fins educacionais.
+
+---
+
+# Por Incompetência de uma Aluna RAYKA o projeto não deu muito certo, não so por parte dela como o do time todo por falta de comunicação esse projeto foi cancelado, quando quiser nammorar termina a poha do curso antes, pra focar o projeto.
